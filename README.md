@@ -18,6 +18,4 @@
 - [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) (Advisor)
 - [Fuzhou University](https://www.fzu.edu.cn/)
 
-<br>
-
 **If you like, please star it!**

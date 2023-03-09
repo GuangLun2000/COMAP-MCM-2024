@@ -123,9 +123,13 @@ def final(aaa,f_judge):
     single_sum=math.sin(aaa)*stand_sum(res_income)+math.cos(aaa)*stand_sum(res_count)
     return single_sum
 
-T=input("请输入控制量，A为前三，B为全部，C为后三")
-#a为弧度
+# A表示前三个政策，B为全部政策同时实施，C为后三个政策: 
+# A represents (x1,x2,x3)
+# B represents (x1,x2,x3,x4,x5,x6)
+# C represents (x4,x5,x6)
+T=input("Pleaes input the combination number (A|B|C) to get the testing results: ")
 
+# a为弧度
 a_j=90
 res_lst = []
 

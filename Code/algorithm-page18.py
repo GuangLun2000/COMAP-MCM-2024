@@ -24,7 +24,7 @@ sum_impact=0.01
 init_income=10000
 #INITIAL_INCOME = 10000
 
-# Policy parameters
+# Policy Parameters
 #HUNTING_LIMIT = 0.9
 limit_hunting=a  # Policy 1: Livestock Industry (LI) 不能杀这么多的系数
 COMPETITION_LIMIT = math.sin(a)  # Policy 2: Planting Industry (PI)
@@ -104,7 +104,7 @@ def develop_animal_husbandry(animal_count, income):
 
 # ------------------------------------------------------------------------------
 
-# Main function to control policy implementation 主函数
+# Main function to control policy implementation 主函数调用
 def implement_policies(num_years, initial_animals=init_animal, initial_income=init_income):
     animal_counts = [initial_animals]
     incomes = [initial_income]
@@ -165,7 +165,7 @@ def implement_policies(num_years, initial_animals=init_animal, initial_income=in
     plt.rcParams['font.family'] = ['Times New Roman']
     plt.rcParams['font.size'] = 14
 
-# 蓝色 #003366  绿色 #006633  红色#990000
+# 蓝色 #003366  绿色 #006633  红色#990000  紫色##800080	 金色#FFD700
     ax2 = ax1.twinx()
     ax1.set_xlabel('Year', fontweight='bold', fontdict={'family': 'Times New Roman', 'size': 14})
     ax1.set_ylabel('Wildlife population (Unit:number)', fontweight='bold', fontdict={'family': 'Times New Roman', 'size': 14, 'color': '#003366'})

@@ -2,6 +2,11 @@
 
 **2023-MCM-B：Reshape the Crowning Glory of Maasai Mara**
 
+<div class="second">
+<img src = "https://p.ipic.vip/jzfrgr.png" width = 38%>
+<img src = "https://p.ipic.vip/cw6l5e.png" width = 36%>
+</div>
+
 ## This Repo contains 本仓库包括
 
 - Our Competition Paper (.pdf)
@@ -35,4 +40,6 @@ MCM-2316192 美赛材料由 Hanlin Cai 汇总整理。材料完全免费开源�
 倡导知识付费，是因为知识创建整理的过程复杂，需要付诸许多心血，而人的精力实在有限，知识付费让这一切关系变得健康；相反地，倡导知识开源，恰恰也正是因为知识宝贵，所以需要让更多人受益，从而充分发挥人的劳动价值——这是**在计划里的捐献**。
 
 最后的最后，祝你考比赛顺利，学业有成。**我们高处见。**
+
+<br>
 

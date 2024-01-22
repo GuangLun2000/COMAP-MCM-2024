@@ -2,35 +2,35 @@
 
 **MCM-B: Reshape the Crowning Glory of Maasai Mara (2316192)**
 
+### Team Members
+
+- [Mr. Hanlin Cai](https://caihanlin.com/) (Leader, writing)
+- Ms. Yufei Wu (Modeling)
+- Mr. Wenxuan Luo (Coding)
+- [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) (Advisor)
+- [Fuzhou University](https://www.fzu.edu.cn/)
+
 <div class="second">
 <img src = "Figure/prize/CUMCM-2022.png" width = 38.5%>
 <img src = "Figure/prize/IMCM-2023.png" width = 36.0%>
 </div>
 
 
-## This Repo contains 本仓库包括
+## This repo contains
 
-- Our Competition Paper (.pdf)
+- Our MCM Competition Paper (.pdf)
 - Word Template (.word)
 - Figure Template (.pptx)
-- Code of our Model (Matlab, Python)
+- Codes of our Paper (Matlab, Python)
 - My Personal MCM Note (.pdf)
 
-## Team Members 团队成员
-
-- [Mr. Hanlin Cai](https://caihanlin.com) (Leader, writing)
-- Ms. Yufei Wu (Modeling)
-- Mr. Wenxuan Luo (Coding)
-- [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) (Advisor)
-- [Fuzhou University](https://www.fzu.edu.cn/)
-
-## Chinese Statement 中文陈述
+## 本仓库包括
 
 - [x] 我们的美赛论文PDF
-- [ ] 论文的Word原稿
+- [x] 论文的Word模版
 - [x] 图片制作的PPT模版（包括所有图片）
 - [x] 模型的代码（Matlab, Python）
-- [ ] 我的美赛笔记（绘图、写作、团队）
+- [x] 我的美赛笔记（绘图、写作、团队）
 
 <br>
 

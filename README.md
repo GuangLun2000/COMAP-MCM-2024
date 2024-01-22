@@ -1,14 +1,14 @@
 # COMAP-MCM-2023
 
-**MCM-B: Reshape the Crowning Glory of Maasai Mara (2316192)**
+MCM-B: Reshape the Crowning Glory of Maasai Mara (2316192)
 
 ### Team Members
 
-- [Mr. Hanlin Cai](https://caihanlin.com/) (Leader, writing)
-- Ms. Yufei Wu (Modeling)
-- Mr. Wenxuan Luo (Coding)
-- [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) (Advisor)
-- [Fuzhou University](https://www.fzu.edu.cn/)
+- [Hanlin Cai 蔡汉霖](https://caihanlin.com/) (Leader, writing)
+- Yufei Wu 吴雨菲 (Modeling)
+- Wenxuan Luo 罗文轩 (Coding)
+- Advisor: [Dr. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm)
+- Institution: [Fuzhou University](https://www.fzu.edu.cn/)
 
 <div class="second">
 <img src = "Figure/prize/CUMCM-2022.png" width = 38.5%>
@@ -16,7 +16,7 @@
 </div>
 
 
-## This repo contains
+## This Repo Contains
 
 - Our MCM Competition Paper (.pdf)
 - Word Template (.word)

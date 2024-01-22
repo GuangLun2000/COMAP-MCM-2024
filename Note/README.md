@@ -2,8 +2,7 @@
 
 You can contact my email to access other Notes.
 
-- lancecai2002@gmail.com 
-- hanlin.cai@ieee.org (alter)
+- hanlin.cai@ieee.org
 
 如果这些汇总/笔记帮到你，还请star这个仓库🌟
 

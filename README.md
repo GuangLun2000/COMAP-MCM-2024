@@ -1,6 +1,6 @@
-# MCM-2316192
+# COMAP-MCM-2023
 
-**2023-MCM-B：Reshape the Crowning Glory of Maasai Mara**
+**MCM-B: Reshape the Crowning Glory of Maasai Mara (2316192)**
 
 <div class="second">
 <img src = "https://p.ipic.vip/jzfrgr.png" width = 38%>

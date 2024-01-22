@@ -3,9 +3,10 @@
 **MCM-B: Reshape the Crowning Glory of Maasai Mara (2316192)**
 
 <div class="second">
-<img src = "https://p.ipic.vip/jzfrgr.png" width = 38%>
-<img src = "https://p.ipic.vip/cw6l5e.png" width = 36%>
+<img src = "Figure/prize/CUMCM-2022.png" width = 38.5%>
+<img src = "Figure/prize/IMCM-2023.png" width = 36.0%>
 </div>
+
 
 ## This Repo contains 本仓库包括
 

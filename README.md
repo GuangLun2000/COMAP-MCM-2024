@@ -29,6 +29,8 @@ MCM-B: Reshape the Crowning Glory of Maasai Mara (2316192)
 - [如何绘制优秀的论文配图-蔡汉霖-最新版.pdf](https://caihanlin.com/mypaper/modeling/figure.pdf)
 - [我的@b站频道，欢迎关注🥳](https://space.bilibili.com/594030035)
 
+<br>
+
 ## 材料声明
 
 COMAP-MCM-2023美赛材料由本团队汇总整理。材料完全免费开源，支持任意方式转载，请勿商用。
@@ -39,7 +41,7 @@ COMAP-MCM-2023美赛材料由本团队汇总整理。材料完全免费开源，
 
 最后的最后，祝你比赛顺利，学业有成。我们高处见！
 
----
+<br>
 
 ## 支持我们的工作
 

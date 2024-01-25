@@ -17,10 +17,11 @@ MCM-B: Reshape the Crowning Glory of Maasai Mara (2316192)
 
 ## 团队成员
 
-- [Hanlin Cai 蔡汉霖](https://caihanlin.com/) (Leader, Writing)
+- [Hanlin Cai](https://caihanlin.com/) 蔡汉霖 (Leader, Writing)
 - Yufei Wu 吴雨菲 (Modeling)
 - Wenxuan Luo 罗文轩 (Coding)
-- Advisor: [Dr. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm)
+- Advisor: Zhezhuang Xu 徐哲壮教授
+- Advisor: Yong Zhou 周勇副教授
 - Institution: [Fuzhou University](https://www.fzu.edu.cn/)
 
 ## 相关资源

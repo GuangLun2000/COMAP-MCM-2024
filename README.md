@@ -2,6 +2,8 @@
 
 MCM-B: Reshape the Crowning Glory of Maasai Mara (2316192)
 
+本材料为开源免费材料，如需获取2024年进阶材料，欢迎联系我：https://caihanlin.com/blogs/team2023/
+
 ## 本仓库包括
 
 - [x] PDF: 我们的美赛论文

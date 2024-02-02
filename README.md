@@ -1,8 +1,10 @@
 # COMAP-MCM-2023
 
-MCM-B: Reshape the Crowning Glory of Maasai Mara (2316192)
+我们的赛题：MCM-B: Reshape the Crowning Glory of Maasai Mara (2316192)
 
-本材料为开源免费材料，如需获取2024年进阶材料，欢迎联系我：https://caihanlin.com/blogs/team2023/
+本材料为开源免费材料，如需获取2024年进阶材料，欢迎查看：https://caihanlin.com/blogs/team2023/
+
+如果这些材料帮到了你，请不要吝惜，给这个Github仓库一个Star吧🥳这是对我最好的支持方式，感谢！
 
 ## 本仓库包括
 
@@ -31,6 +33,10 @@ MCM-B: Reshape the Crowning Glory of Maasai Mara (2316192)
 - [2024年福大数模培训分享会直播-蔡汉霖团队](https://meeting.tencent.com/user-center/shared-record-info?id=6a5b1dea-3b04-45eb-889b-8c2d347215af&from=3)
 - [如何绘制优秀的论文配图-蔡汉霖-最新版.pdf](https://caihanlin.com/mypaper/modeling/figure.pdf)
 - [我的@b站频道，欢迎关注🥳](https://space.bilibili.com/594030035)
+- 百度网盘，实时更新最新美赛开源材料（全部免费！）
+  - 链接: https://pan.baidu.com/s/1U6vZv310OkmjwLWu2wLDxA
+  - 提取码: mtc5
+
 
 <br>
 

@@ -60,7 +60,7 @@ COMAP-MCM-2023美赛材料由本团队汇总整理。材料完全免费开源，
 
 你的支持是我们不断更新的动力！
 
-| <img src = "https://s2.loli.net/2022/09/30/LoZAKE2rfN965k4.jpg"> | <img src="Figure/prize/me.png" alt="me" style="zoom:85%;" /> |
+| <img src = "https://s2.loli.net/2022/09/30/LoZAKE2rfN965k4.jpg"> | <img src="Figure/prize/me.png" alt="me" style="zoom:80%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 如需获取2024年进阶材料，欢迎联系我微信。材料介绍：
@@ -72,3 +72,7 @@ COMAP-MCM-2023美赛材料由本团队汇总整理。材料完全免费开源，
 个人宝贵材料，花了很多心思准备，请勿盗用，感谢理解。
 
 希望大家不要随意分享。希望你理解，拥有的人越多，你的竞争越大。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/COMAP-MCM-2023&type=Date)](https://star-history.com/#GuangLun2000/COMAP-MCM-2023&Date)

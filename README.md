@@ -24,9 +24,7 @@
 - [Hanlin Cai](https://caihanlin.com/) 蔡汉霖 (Leader, Writing)
 - Yufei Wu 吴雨菲 (Modeling)
 - Wenxuan Luo 罗文轩 (Coding)
-- Advisor: Zhezhuang Xu 徐哲壮教授
-- Advisor: Yong Zhou 周勇副教授
-- Institution: [Fuzhou University](https://www.fzu.edu.cn/)
+- Advisor: Zhezhuang Xu 徐哲壮教授, Yong Zhou 周勇副教授
 
 ## 相关资源
 
@@ -62,16 +60,6 @@ COMAP-MCM-2023美赛材料由本团队汇总整理。材料完全免费开源，
 
 | <img src = "https://s2.loli.net/2022/09/30/LoZAKE2rfN965k4.jpg"> | <img src="Figure/prize/me.png" alt="me" style="zoom:80%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-如需获取2024年进阶材料，欢迎联系我微信。材料介绍：
-
-美赛进阶版材料，包括自制绘图PPT模版，F奖Word原文稿，手把手绘图教程等。具体内容看图片。
-
-主理人详情：美赛F奖，国赛一等奖，本科生AAAI顶会一作，6项国家级竞赛奖项。现已录取帝国理工学院。
-
-个人宝贵材料，花了很多心思准备，请勿盗用，感谢理解。
-
-希望大家不要随意分享。希望你理解，拥有的人越多，你的竞争越大。
 
 ## Star History
 
